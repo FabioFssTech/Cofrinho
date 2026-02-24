@@ -53,7 +53,7 @@ java -jar Cofrinho.jar
 
 ---
 
----
+
 ## 🛠️ Simulando o funcionamento do Cofrinho
 
 COFRINHO:
