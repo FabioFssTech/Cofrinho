@@ -51,6 +51,10 @@ jar cfe Cofrinho.jar Cofre.Principal Cofre/*.class
 ### Roda o Programa
 java -jar Cofrinho.jar
 
+---
+
+---
+## 🛠️ Simulando o funcionamento do Cofrinho
 
 COFRINHO:
 1 - Adicionar Moeda
@@ -178,6 +182,6 @@ Euro - € 3,00
  Escolha uma opção: 0
 Encerrando o programa...
 
-
+---
 
 
